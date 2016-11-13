@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreadsOldPhotos</string>
+    <string name="sd_card_is_missing">SD card is missing! Can\'t continue</string>
+</resources>
